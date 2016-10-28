@@ -1,6 +1,6 @@
 {
   "@type": "LearningResource",
-  "@explicit": true,
+  "@explicit": false,
   "a": {},
   "uri": {},
   "title": {},
