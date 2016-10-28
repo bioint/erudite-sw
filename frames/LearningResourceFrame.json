@@ -1,0 +1,44 @@
+{
+  "@type": "LearningResource,
+  "@explicit": true,
+  "a": {},
+  "uri": {},
+  "title": {},
+  "subtitle": {},
+  "description": {},
+  "isProvidedBy": {
+    "@Provider": "Provider",
+    "@explicit": true,
+    "uri": {},
+    "a": {},
+    "full_name": {},
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "@explicit": true,
+      "uri": {},
+      "a": {},
+      "address": {
+        "@type": "PostalAddress",
+        "@explicit": true,
+        "uri": {},
+        "a": {},
+        "addressLocality": {}
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "@explicit": true,
+        "uri": {},
+        "a": {},
+        "latitude": {},
+        "longitude": {}
+      }
+    }
+  },
+  "isTaughtBy": {
+    "@Provider": "Person",
+    "@explicit": true,
+    "uri": {},
+    "a": {},
+    "full_name": {}
+  } 
+}
