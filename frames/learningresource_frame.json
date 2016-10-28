@@ -11,28 +11,7 @@
     "@explicit": true,
     "uri": {},
     "a": {},
-    "full_name": {},
-    "availableAtOrFrom": {
-      "@type": "Place",
-      "@explicit": true,
-      "uri": {},
-      "a": {},
-      "address": {
-        "@type": "PostalAddress",
-        "@explicit": true,
-        "uri": {},
-        "a": {},
-        "addressLocality": {}
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "@explicit": true,
-        "uri": {},
-        "a": {},
-        "latitude": {},
-        "longitude": {}
-      }
-    }
+    "full_name": {}
   },
   "isTaughtBy": {
     "@Provider": "Person",
