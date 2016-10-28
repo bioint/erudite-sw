@@ -7,14 +7,14 @@
   "subtitle": {},
   "description": {},
   "isProvidedBy": {
-    "@Provider": "Provider",
+    "@type": "Provider",
     "@explicit": true,
     "uri": {},
     "a": {},
     "full_name": {}
   },
   "isTaughtBy": {
-    "@Provider": "Person",
+    "@type": "Person",
     "@explicit": true,
     "uri": {},
     "a": {},
