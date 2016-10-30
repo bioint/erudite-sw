@@ -1,8 +1,10 @@
 {
   "@type": "LearningResource",
-  "@explicit": true,
+  "@explicit": false,
   "a": {},
   "uri": {},
+  "title": {},
+  "description": {},
   "subtitle": {},
   "hasTag": {},
   "isProvidedBy": {
