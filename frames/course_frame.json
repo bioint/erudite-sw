@@ -1,0 +1,24 @@
+{
+  "@type": "Course",
+  "@explicit": false,
+  "a": {},
+  "uri": {},
+  "name": {},
+  "description": {},
+  "subtitle": {},
+  "subject": {},
+  "has_provider": {
+    "@type": "EducationalOrganization",
+    "@explicit": true,
+    "uri": {},
+    "a": {},
+    "name": {}
+  },
+  "isTaughtBy": {
+    "@type": "Person",
+    "@explicit": true,
+    "uri": {},
+    "a": {},
+    "name": {}
+  } 
+}
