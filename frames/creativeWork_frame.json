@@ -1,0 +1,24 @@
+{
+  "@type": "CreativeWork",
+  "@explicit": false,
+  "a": {},
+  "uri": {},
+  "name": {},
+  "description": {},
+  "subtitle": {},
+  "subject": {},
+  "has_provider": {
+    "@type": "Organization",
+    "@explicit": true,
+    "uri": {},
+    "a": {},
+    "name": {}
+  },
+  "isTaughtBy": {
+    "@type": "Person",
+    "@explicit": true,
+    "uri": {},
+    "a": {},
+    "name": {}
+  } 
+}
