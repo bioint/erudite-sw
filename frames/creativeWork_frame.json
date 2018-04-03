@@ -14,7 +14,7 @@
     "a": {},
     "name": {}
   },
-  "isTaughtBy": {
+  "author": {
     "@type": "Person",
     "@explicit": true,
     "uri": {},
