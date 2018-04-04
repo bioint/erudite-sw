@@ -20,7 +20,8 @@
     "uri": {},
     "url": {},
     "a": {},
-    "name": {}
+    "name": {},
+    "sameAs": {}
   },
   "author": {
     "@type": "Person",
@@ -28,6 +29,7 @@
     "uri": {},
     "url": {},
     "a": {},
-    "name": {}
+    "name": {},
+    "sameAs": {}
   } 
 }
