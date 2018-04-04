@@ -24,4 +24,5 @@
     },
     "uri": "@id",
     "url": {"@id": "http://schema.org/url"}
+    "memberOf": {"@id": "http://schema.org/memberOf"}
 }}
