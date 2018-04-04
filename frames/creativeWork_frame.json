@@ -1,12 +1,19 @@
 {
   "@type": "CreativeWork",
-  "@explicit": false,
+  "@explicit": true,
   "a": {},
   "uri": {},
   "name": {},
   "description": {},
   "subtitle": {},
   "subject": {},
+  "genre": {
+    "@type": "Tag",
+    "@explicit": true,
+    "uri": {},
+    "a": {},
+    "prefLabel": {}
+  },
   "provider": {
     "@type": "Organization",
     "@explicit": true,
