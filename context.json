@@ -23,6 +23,6 @@
         "@id": "http://schema.org/Person"
     },
     "uri": "@id",
-    "url": {"@id": "http://schema.org/url"}
+    "url": {"@id": "http://schema.org/url"},
     "memberOf": {"@id": "http://schema.org/memberOf"}
 }}
