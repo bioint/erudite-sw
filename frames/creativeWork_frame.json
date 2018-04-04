@@ -7,7 +7,7 @@
   "description": {},
   "subtitle": {},
   "subject": {},
-  "has_provider": {
+  "provider": {
     "@type": "Organization",
     "@explicit": true,
     "uri": {},
