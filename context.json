@@ -6,7 +6,7 @@
     },
     "provider": {"@id": "http://schema.org/provider"},
     "author": {"@id": "http://schema.org/author"},
-    "sameAs": {"@id": "http://schema.org/sameAs"},
+    "sameAs": {"@id": "http://www.w3.org/2002/07/owl#sameAs"},
     "name": {"@id": "http://schema.org/name"},
     "CreativeWork": {
         "@type": "@id",
