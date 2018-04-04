@@ -1,0 +1,26 @@
+{"@context": {
+    "a": "@type",
+    "Organization": {
+        "@type": "@id",
+        "@id": "http://schema.org/Organization"
+    },
+    "provider": {"@id": "http://schema.org/provider"},
+    "author": {"@id": "http://schema.org/author"},
+    "name": {"@id": "http://schema.org/name"},
+    "CreativeWork": {
+        "@type": "@id",
+        "@id": "http://schema.org/CreativeWork"
+    },
+    "genre": {"@id": "http://schema.org/genre"},
+    "description": {"@id": "http://schema.org/description"},
+    "Tag": {
+        "@type": "@id",
+        "@id": "http://bigdatau.isi.edu/erudite/Tag"
+    },
+    "Person": {
+        "@type": "@id",
+        "@id": "http://schema.org/Person"
+    },
+    "uri": "@id",
+    "url": {"@id": "http://schema.org/url"}
+}}
