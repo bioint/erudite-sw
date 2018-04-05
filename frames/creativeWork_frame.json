@@ -18,11 +18,11 @@
   "provider": {
     "@type": "Organization",
     "@explicit": true,
-    "uri": {},
+    "uri": {}
   },
   "author": {
     "@type": "Person",
     "@explicit": true,
-    "uri": {},
+    "uri": {}
   } 
 }
