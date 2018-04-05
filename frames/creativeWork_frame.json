@@ -19,19 +19,10 @@
     "@type": "Organization",
     "@explicit": true,
     "uri": {},
-    "url": {},
-    "a": {},
-    "name": {},
-    "sameAs": {}
   },
   "author": {
     "@type": "Person",
     "@explicit": true,
     "uri": {},
-    "url": {},
-    "a": {},
-    "name": {},
-    "sameAs": {},
-    "memberOf": {}
   } 
 }
