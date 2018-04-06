@@ -5,10 +5,10 @@
 	"url": {},
 	"a": {},
 	"name": {},
+	"description": {},
 	"sameAs": {},
 	"memberOf": {
 		"@type": "Organization",
 		"@explicit": true,
-    	"uri": {}
     }
 }
