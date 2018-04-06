@@ -7,8 +7,5 @@
 	"name": {},
 	"description": {},
 	"sameAs": {},
-	"memberOf": {
-		"@type": "Organization",
-		"@explicit": true
-    }
+	"memberOf": {}
 }
