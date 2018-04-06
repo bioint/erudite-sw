@@ -9,6 +9,6 @@
 	"sameAs": {},
 	"memberOf": {
 		"@type": "Organization",
-		"@explicit": true,
+		"@explicit": true
     }
 }
