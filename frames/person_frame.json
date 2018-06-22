@@ -1,9 +1,8 @@
 {
 	"@type": "Person",
 	"@explicit": true,
-	"uri": {},
+	"@id": {},
 	"url": {},
-	"a": {},
 	"name": {},
 	"description": {},
 	"sameAs": {},
