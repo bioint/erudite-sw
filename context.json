@@ -1,4 +1,5 @@
 {"@context": {
+    "a": "@type",
     "Organization": {
         "@type": "@id",
         "@id": "http://schema.org/Organization"
@@ -21,6 +22,7 @@
         "@type": "@id",
         "@id": "http://schema.org/Person"
     },
+    "uri": "@id",
     "url": {"@id": "http://schema.org/url"},
     "memberOf": {"@id": "http://schema.org/memberOf"}
 }}

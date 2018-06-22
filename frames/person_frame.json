@@ -1,10 +1,14 @@
 {
 	"@type": "Person",
 	"@explicit": true,
-	"@id": {},
+	"uri": {},
 	"url": {},
+	"a": {},
 	"name": {},
-	"description": {},
 	"sameAs": {},
-	"memberOf": {}
+	"memberOf": {
+		"@type": "Organization",
+		"@explicit": true,
+    	"uri": {}
+    }
 }

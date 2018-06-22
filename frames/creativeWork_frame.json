@@ -1,7 +1,8 @@
 {
   "@type": "CreativeWork",
   "@explicit": true,
-  "@id": {},
+  "a": {},
+  "uri": {},
   "name": {},
   "description": {},
   "subtitle": {},
@@ -10,17 +11,18 @@
   "genre": {
     "@type": "Tag",
     "@explicit": true,
-    "@id": {},
+    "uri": {},
+    "a": {},
     "prefLabel": {}
   },
   "provider": {
     "@type": "Organization",
     "@explicit": true,
-    "@id": {}
+    "uri": {}
   },
   "author": {
     "@type": "Person",
     "@explicit": true,
-    "@id": {},
+    "uri": {}
   } 
 }

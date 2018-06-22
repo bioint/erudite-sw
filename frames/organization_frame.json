@@ -1,9 +1,9 @@
 {
 	"@type": "Organization",
 	"@explicit": true,
-	"@id": {},
+	"uri": {},
 	"url": {},
+	"a": {},
 	"name": {},
-  	"description": {},
 	"sameAs": {}
 }
