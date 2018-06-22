@@ -1,5 +1,5 @@
 {"@context": {
-    "@type": "@type",
+    "a": "@type",
     "Organization": {
         "@type": "@id",
         "@id": "http://schema.org/Organization"
