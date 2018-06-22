@@ -10,7 +10,7 @@
   "genre": {
     "@type": "Tag",
     "@explicit": true,
-	  "@id": {},
+    "@id": {},
     "prefLabel": {}
   },
   "provider": {
@@ -21,6 +21,6 @@
   "author": {
     "@type": "Person",
     "@explicit": true,
-	  "@id": {},
+    "@id": {},
   } 
 }
