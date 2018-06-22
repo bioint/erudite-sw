@@ -8,20 +8,17 @@
   "subtitle": {},
   "subject": {},
   "url": {},
-  "genre": {
-    "@type": "Tag",
-    "@explicit": true,
-    "uri": {},
-    "prefLabel": {}
-  },
+  "genre": {},
   "provider": {
     "@type": "Organization",
     "@explicit": true,
+    "a": {},
     "uri": {}
   },
   "author": {
     "@type": "Person",
     "@explicit": true,
+    "a": {},
     "uri": {}
   } 
 }

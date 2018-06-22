@@ -9,6 +9,7 @@
 	"memberOf": {
 		"@type": "Organization",
 		"@explicit": true,
-    	"uri": {}
+    	"uri": {},
+    	"a": {}
     }
 }
