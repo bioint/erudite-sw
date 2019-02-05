@@ -13,12 +13,14 @@
     "@type": "Organization",
     "@explicit": true,
     "a": {},
-    "uri": {}
+    "uri": {},
+    "name": {}
   },
   "author": {
     "@type": "Person",
     "@explicit": true,
     "a": {},
-    "uri": {}
+    "uri": {},
+    "name": {}
   } 
 }
